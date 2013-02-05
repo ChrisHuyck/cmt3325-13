@@ -9,6 +9,10 @@ namespace CodeShare13
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I Can Share Code.");
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+
         }
     }
 }
