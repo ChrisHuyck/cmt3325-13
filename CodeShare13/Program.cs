@@ -12,7 +12,9 @@ namespace CodeShare13
             Console.WriteLine("I Can Share Code.");
             Console.WriteLine("Chris Did.");
             Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Louis is pedantic");
             Console.ReadKey();
+            
 
         }
     }
