@@ -13,6 +13,7 @@ namespace CodeShare13
             Console.WriteLine("Chris Did.");
             Console.WriteLine("Press any key to exit.");
             Console.WriteLine("Louis is NOT pedantic anymore");
+            Console.WriteLine("Louis IS pedantic anymore");
             Console.ReadKey();
             
 
