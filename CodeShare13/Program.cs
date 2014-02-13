@@ -15,6 +15,7 @@ namespace CodeShare13
             Console.WriteLine("Louis is NOT pedantic anymore");
             Console.WriteLine("Theo's here.");
             Console.WriteLine("Chris 2014.");
+            Console.WriteLine("Chris In lab.");
             Console.ReadKey();
             
 
