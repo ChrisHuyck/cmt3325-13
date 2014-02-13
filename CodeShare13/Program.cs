@@ -14,6 +14,7 @@ namespace CodeShare13
             Console.WriteLine("Press any key to exit.");
             Console.WriteLine("Louis is NOT pedantic anymore");
             Console.WriteLine("Theo's here.");
+            Console.WriteLine("Chris 2014.");
             Console.ReadKey();
             
 
