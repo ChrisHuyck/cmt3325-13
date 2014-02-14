@@ -16,6 +16,7 @@ namespace CodeShare13
             Console.WriteLine("Theo's here.");
             Console.WriteLine("Chris 2014.");
             Console.WriteLine("Chris In lab.");
+            Console.WriteLine("Hey Chris");
             Console.ReadKey();
             
 
