@@ -26,9 +26,7 @@ namespace CodeShare13
             Console.WriteLine("Markus got in, finally...");
             Console.WriteLine("Confliciting");
             Console.WriteLine("I dont like Git");
-
             for (long i = 0; i < 999999999999999999; i++) Console.WriteLine("Do you even loop breh?");
-
             Console.ReadKey();
         }
     }
