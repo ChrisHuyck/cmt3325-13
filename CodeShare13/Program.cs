@@ -18,14 +18,14 @@ namespace CodeShare13
             Console.WriteLine("Hey Chris");
             Console.WriteLine("Hi Matthew");
             Console.WriteLine("Gui was here");
-            Console.WriteLine("Hi all, its Dainius, why no one see me ?");
+            Console.WriteLine("Hi all, its Dainius, why no one see me ? - I see you, Dainius!");
             Console.WriteLine("#TeamPoopsock #TeamYoMommasHouse #Alexwoshere");
             Console.WriteLine("Alex is a waste man, bare moist. >Baran");
             Console.WriteLine("Baran posts another line.");
             Console.WriteLine("Maxi Maxi dominating your code");
             Console.WriteLine("Markus got in, finally...");
-
-            for (long i = 0; i < 999999999999999999; i++) Console.WriteLine("Do you even loop breh?");
+            Console.WriteLine("Confliciting");
+            Console.WriteLine("I dont like Git");
 
             Console.ReadKey();
         }
