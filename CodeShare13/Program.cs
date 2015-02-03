@@ -24,6 +24,7 @@ namespace CodeShare13
             Console.WriteLine("Alex is a waste man, bare moist. >Baran");
             Console.WriteLine("Baran posts another line.");
             Console.WriteLine("Can we start partying ?");
+            Console.WriteLine("Maxi Maxi dominating your code");
             Console.ReadKey();
         }
     }
