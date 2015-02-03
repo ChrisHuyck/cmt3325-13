@@ -18,9 +18,8 @@ namespace CodeShare13
             Console.WriteLine("Chris In lab.");
             Console.WriteLine("Hey Chris");
             Console.WriteLine("Hi Matthew");
+            Console.WriteLine("Baran's line.");
             Console.ReadKey();
-            
-
         }
     }
 }
