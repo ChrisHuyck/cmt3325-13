@@ -23,6 +23,7 @@ namespace CodeShare13
             Console.WriteLine("#TeamPoopsock #TeamYoMommasHouse #Alexwoshere");
             Console.WriteLine("Alex is a waste man, bare moist. >Baran");
             Console.WriteLine("Baran posts another line.");
+            Console.WriteLine("Can we start partying ?");
             Console.ReadKey();
         }
     }
