@@ -15,7 +15,6 @@ namespace CodeShare13
             Console.WriteLine("Louis is NOT pedantic anymore");
             Console.WriteLine("Theo's here.");
             Console.WriteLine("Chris 2014.");
-            Console.WriteLine("Chris In lab.");
             Console.WriteLine("Hey Chris");
             Console.WriteLine("Hi Matthew");
             Console.WriteLine("Gui was here");
@@ -23,8 +22,8 @@ namespace CodeShare13
             Console.WriteLine("#TeamPoopsock #TeamYoMommasHouse #Alexwoshere");
             Console.WriteLine("Alex is a waste man, bare moist. >Baran");
             Console.WriteLine("Baran posts another line.");
-            Console.WriteLine("Can we start partying ?");
             Console.WriteLine("Maxi Maxi dominating your code");
+            Console.WriteLine("Markus got in, finally...");
             Console.ReadKey();
         }
     }
