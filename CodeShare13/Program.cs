@@ -25,6 +25,7 @@ namespace CodeShare13
             Console.WriteLine("Maxi Maxi dominating your code");
             Console.WriteLine("Markus got in, finally...");
             Console.WriteLine("Confliciting");
+            Console.WriteLine("I dont like Git");
             Console.ReadKey();
         }
     }
