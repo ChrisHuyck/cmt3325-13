@@ -29,6 +29,7 @@ namespace CodeShare13
             for (long i = 0; i < 999999999999999999; i++) Console.WriteLine("Do you even loop breh?");
             Console.WriteLine("Imagine if you woke up and you were a fish");
             Console.WriteLine("Tom added a line");
+            Console.WriteLine("Hi there");
             Console.ReadKey();
         }
     }
